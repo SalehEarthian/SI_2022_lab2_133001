@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-03T20:22:54" hostname="DESKTOP-SBL0KV8" time="0.024">
+  <properties/>
+  <testcase name="everyStatementTestovi" classname="SILab2Test" time="0.022"/>
+  <testcase name="everyBranchTestovi" classname="SILab2Test" time="0.0"/>
+  <system-out><![CDATA[[#, 1, #, 1]
+[#, #, #, 2]
+[2, #, #, #]
+[#, 2, #, #, 2, #, #, 2, #]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
